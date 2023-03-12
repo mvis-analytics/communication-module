@@ -1,0 +1,7 @@
+CRITICAL: 2022-09-23 23:00:00,550: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 'defect_bogie_id'
+CRITICAL: 2022-09-23 23:00:13,042: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 'defect_bogie_id'
+CRITICAL: 2022-09-23 23:27:23,687: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 'defect_bogie_id'
+CRITICAL: 2022-09-23 23:27:29,509: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 'defect_bogie_id'
+CRITICAL: 2022-09-24 02:03:37,437: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 'defect_bogie_id'
+CRITICAL: 2022-09-24 02:03:47,734: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 'defect_bogie_id'
+CRITICAL: 2022-09-24 02:48:27,561: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 'defect_bogie_id'

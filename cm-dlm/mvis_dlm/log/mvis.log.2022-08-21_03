@@ -1,0 +1,12 @@
+CRITICAL: 2022-08-21 03:15:27,056: Thread-1:mvis_api,insert_mvis_event_info,435:  mvis_api: insert_mvis_event_info: exception : connection already closed
+CRITICAL: 2022-08-21 03:16:20,338: Thread-1:mvis_api,insert_train_consolidated_info,355:  mvis_api: insert_train_consolidated_info: exception connection already closed
+CRITICAL: 2022-08-21 03:16:20,510: Thread-1:mvis_api,insert_train_processed_info,139:  mvis_api: insert_train_processed_info: Exception raised: connection already closed
+CRITICAL: 2022-08-21 03:40:18,196: Thread-1:mvis_api,insert_mvis_event_info,435:  mvis_api: insert_mvis_event_info: exception : connection already closed
+CRITICAL: 2022-08-21 03:40:45,472: Thread-1:mvis_api,insert_train_consolidated_info,355:  mvis_api: insert_train_consolidated_info: exception connection already closed
+CRITICAL: 2022-08-21 03:40:45,617: Thread-1:mvis_api,insert_train_processed_info,139:  mvis_api: insert_train_processed_info: Exception raised: connection already closed
+CRITICAL: 2022-08-21 04:51:21,416: Thread-1:mvis_api,insert_mvis_event_info,435:  mvis_api: insert_mvis_event_info: exception : connection already closed
+CRITICAL: 2022-08-21 04:51:46,231: Thread-1:mvis_api,insert_train_consolidated_info,355:  mvis_api: insert_train_consolidated_info: exception connection already closed
+CRITICAL: 2022-08-21 04:51:46,316: Thread-1:mvis_api,insert_train_processed_info,139:  mvis_api: insert_train_processed_info: Exception raised: connection already closed
+CRITICAL: 2022-08-21 06:50:34,314: Thread-1:mvis_api,insert_mvis_event_info,435:  mvis_api: insert_mvis_event_info: exception : connection already closed
+CRITICAL: 2022-08-21 06:51:03,289: Thread-1:mvis_api,insert_train_consolidated_info,355:  mvis_api: insert_train_consolidated_info: exception connection already closed
+CRITICAL: 2022-08-21 06:51:03,318: Thread-1:mvis_api,insert_train_processed_info,139:  mvis_api: insert_train_processed_info: Exception raised: connection already closed

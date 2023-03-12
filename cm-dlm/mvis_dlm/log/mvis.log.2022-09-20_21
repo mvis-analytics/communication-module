@@ -1,0 +1,10 @@
+CRITICAL: 2022-09-20 20:16:29,079: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 'int' object is not subscriptable
+CRITICAL: 2022-09-20 20:18:09,791: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 'defect_bogie_id'
+CRITICAL: 2022-09-20 20:18:24,046: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 'defect_bogie_id'
+CRITICAL: 2022-09-20 21:28:58,496: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 'int' object is not subscriptable
+CRITICAL: 2022-09-20 21:32:06,253: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 'defect_bogie_id'
+WARNING: 2022-09-20 23:43:10,467: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-09-20 23:43:10,484: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+CRITICAL: 2022-09-21 00:00:57,353: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 'int' object is not subscriptable
+CRITICAL: 2022-09-21 00:32:48,441: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 'int' object is not subscriptable
+CRITICAL: 2022-09-21 00:35:20,820: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 'defect_bogie_id'

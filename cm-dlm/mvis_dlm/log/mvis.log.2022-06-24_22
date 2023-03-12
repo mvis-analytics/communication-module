@@ -1,0 +1,68 @@
+CRITICAL: 2022-06-24 22:18:35,298: Thread-1:mvis_api,insert_mvis_event_info,313:  mvis_api: insert_mvis_event_info: exception : current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-24 22:18:35,372: Thread-1:mvis_api,insert_mvis_health_info,380:  mvis_api: insert_mvis_health_info: exception : current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-24 22:41:24,002: Thread-1:mvis_api,insert_mvis_error_info,291:  mvis_api: insert_mvis_error_info: exception current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-24 22:41:24,055: Thread-1:mvis_api,insert_mvis_health_info,380:  mvis_api: insert_mvis_health_info: exception : current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-24 22:44:19,937: Thread-1:mvis_api,insert_mvis_event_info,313:  mvis_api: insert_mvis_event_info: exception : current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-24 22:44:19,988: Thread-1:mvis_api,insert_mvis_health_info,380:  mvis_api: insert_mvis_health_info: exception : current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-24 23:21:22,447: Thread-1:mvis_api,insert_mvis_error_info,291:  mvis_api: insert_mvis_error_info: exception current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-24 23:21:22,459: Thread-1:mvis_api,insert_mvis_health_info,380:  mvis_api: insert_mvis_health_info: exception : current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-24 23:22:48,924: Thread-1:mvis_api,insert_mvis_event_info,313:  mvis_api: insert_mvis_event_info: exception : current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-24 23:22:48,967: Thread-1:mvis_api,insert_mvis_health_info,380:  mvis_api: insert_mvis_health_info: exception : current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-24 23:41:22,193: Thread-1:mvis_api,insert_mvis_error_info,291:  mvis_api: insert_mvis_error_info: exception current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-24 23:41:22,205: Thread-1:mvis_api,insert_mvis_health_info,380:  mvis_api: insert_mvis_health_info: exception : current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-24 23:42:03,511: Thread-1:mvis_api,insert_mvis_event_info,313:  mvis_api: insert_mvis_event_info: exception : current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-24 23:42:03,518: Thread-1:mvis_api,insert_mvis_health_info,380:  mvis_api: insert_mvis_health_info: exception : current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-24 23:56:22,152: Thread-1:mvis_api,insert_mvis_error_info,291:  mvis_api: insert_mvis_error_info: exception current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-24 23:56:22,187: Thread-1:mvis_api,insert_mvis_health_info,380:  mvis_api: insert_mvis_health_info: exception : current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-24 23:58:04,612: Thread-1:mvis_api,insert_mvis_event_info,313:  mvis_api: insert_mvis_event_info: exception : current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-24 23:58:04,645: Thread-1:mvis_api,insert_mvis_health_info,380:  mvis_api: insert_mvis_health_info: exception : current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-25 00:26:23,045: Thread-1:mvis_api,insert_mvis_error_info,291:  mvis_api: insert_mvis_error_info: exception current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-25 00:26:23,063: Thread-1:mvis_api,insert_mvis_health_info,380:  mvis_api: insert_mvis_health_info: exception : current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-25 00:26:55,480: Thread-1:mvis_api,insert_mvis_event_info,313:  mvis_api: insert_mvis_event_info: exception : current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-25 00:26:55,513: Thread-1:mvis_api,insert_mvis_health_info,380:  mvis_api: insert_mvis_health_info: exception : current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-25 00:41:20,663: Thread-1:mvis_api,insert_mvis_error_info,291:  mvis_api: insert_mvis_error_info: exception current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-25 00:41:20,690: Thread-1:mvis_api,insert_mvis_health_info,380:  mvis_api: insert_mvis_health_info: exception : current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-25 00:42:58,120: Thread-1:mvis_api,insert_mvis_event_info,313:  mvis_api: insert_mvis_event_info: exception : current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-25 00:42:58,145: Thread-1:mvis_api,insert_mvis_health_info,380:  mvis_api: insert_mvis_health_info: exception : current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-25 01:21:18,784: Thread-1:mvis_api,insert_mvis_error_info,291:  mvis_api: insert_mvis_error_info: exception current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-25 01:21:18,801: Thread-1:mvis_api,insert_mvis_health_info,380:  mvis_api: insert_mvis_health_info: exception : current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-25 01:21:25,551: Thread-1:mvis_api,insert_mvis_event_info,313:  mvis_api: insert_mvis_event_info: exception : current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-25 01:21:25,598: Thread-1:mvis_api,insert_mvis_health_info,380:  mvis_api: insert_mvis_health_info: exception : current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-25 01:31:26,458: Thread-1:mvis_api,insert_mvis_error_info,291:  mvis_api: insert_mvis_error_info: exception current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-25 01:31:26,459: Thread-1:mvis_api,insert_mvis_health_info,380:  mvis_api: insert_mvis_health_info: exception : current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-25 01:34:18,008: Thread-1:mvis_api,insert_mvis_event_info,313:  mvis_api: insert_mvis_event_info: exception : current transaction is aborted, commands ignored until end of transaction block
+
+CRITICAL: 2022-06-25 01:34:18,067: Thread-1:mvis_api,insert_mvis_health_info,380:  mvis_api: insert_mvis_health_info: exception : current transaction is aborted, commands ignored until end of transaction block
+

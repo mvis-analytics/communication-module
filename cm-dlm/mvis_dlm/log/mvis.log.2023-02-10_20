@@ -1,0 +1,2 @@
+WARNING: 2023-02-10 20:07:32,203: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2023-02-10 20:07:32,221: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****

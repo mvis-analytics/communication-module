@@ -1,0 +1,5 @@
+CRITICAL: 2022-09-21 19:10:39,148: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 'defect_bogie_id'
+CRITICAL: 2022-09-21 19:10:49,562: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 'defect_bogie_id'
+CRITICAL: 2022-09-21 20:54:41,827: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 'defect_bogie_id'
+CRITICAL: 2022-09-21 20:54:48,941: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 'defect_bogie_id'
+CRITICAL: 2022-09-21 21:28:19,266: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: list index out of range

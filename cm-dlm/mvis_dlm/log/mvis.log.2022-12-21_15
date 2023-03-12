@@ -1,0 +1,4 @@
+CRITICAL: 2022-12-21 15:45:31,360: Thread-1:MqttClient,on_discon,183:  mvis-dlm-main-client: ***** Unexpectedly DISCONNECTED - MQTT broker : 127.0.0.1 Retrying *****
+WARNING: 2022-12-21 15:45:31,378: Thread-1:MqttClient,start_reconnect_th,103:  mvis-dlm-main-client: *** Starting reconnect Thread Broker: 127.0.0.1  ***
+CRITICAL: 2022-12-21 15:45:31,362: Thread-2:MqttClient,on_discon,183:  mvis-dlm-api-client: ***** Unexpectedly DISCONNECTED - MQTT broker : 127.0.0.1 Retrying *****
+WARNING: 2022-12-21 15:45:31,379: Thread-2:MqttClient,start_reconnect_th,103:  mvis-dlm-api-client: *** Starting reconnect Thread Broker: 127.0.0.1  ***

@@ -1,0 +1,1 @@
+CRITICAL: 2022-07-17 09:50:19,628: Thread-1:mvis_api,insert_mvis_processed_info,260:  mvis_api: insert_mvis_processed_info: Exception raised: list index out of range

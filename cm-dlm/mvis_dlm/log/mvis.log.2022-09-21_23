@@ -1,0 +1,3 @@
+CRITICAL: 2022-09-21 23:10:39,176: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 'defect_bogie_id'
+CRITICAL: 2022-09-22 01:43:20,614: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 'defect_bogie_id'
+CRITICAL: 2022-09-22 02:08:59,803: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 'defect_bogie_id'

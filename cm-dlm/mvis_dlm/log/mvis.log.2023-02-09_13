@@ -1,0 +1,8 @@
+CRITICAL: 2023-02-09 13:29:03,455: Thread-1:mvis_api,insert_mvis_processed_info,368:  mvis_api: insert_mvis_processed_info: Exception raised: 'cam_id'
+CRITICAL: 2023-02-09 13:29:03,490: Thread-1:mvis_api,insert_mvis_wagon_info,237:  insert_wagon_info: exception: 'cam_id'
+CRITICAL: 2023-02-09 13:29:46,692: Thread-1:mvis_api,insert_mvis_processed_info,368:  mvis_api: insert_mvis_processed_info: Exception raised: 'cam_id'
+CRITICAL: 2023-02-09 13:29:46,703: Thread-1:mvis_api,insert_mvis_wagon_info,237:  insert_wagon_info: exception: 'cam_id'
+CRITICAL: 2023-02-09 13:32:11,093: Thread-1:mvis_api,insert_mvis_processed_info,368:  mvis_api: insert_mvis_processed_info: Exception raised: 'cam_id'
+CRITICAL: 2023-02-09 13:32:11,098: Thread-1:mvis_api,insert_mvis_wagon_info,237:  insert_wagon_info: exception: 'cam_id'
+CRITICAL: 2023-02-09 13:33:48,987: Thread-1:mvis_api,insert_mvis_processed_info,368:  mvis_api: insert_mvis_processed_info: Exception raised: 'cam_id'
+CRITICAL: 2023-02-09 13:33:48,998: Thread-1:mvis_api,insert_mvis_wagon_info,237:  insert_wagon_info: exception: 'cam_id'

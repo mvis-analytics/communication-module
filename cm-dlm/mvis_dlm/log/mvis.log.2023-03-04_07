@@ -1,0 +1,6 @@
+CRITICAL: 2023-03-04 07:13:05,134: Thread-1:mvis_api,insert_mvis_event_info,552:  mvis_api: insert_mvis_event_info: exception : terminating connection due to administrator command
+SSL connection has been closed unexpectedly
+server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+

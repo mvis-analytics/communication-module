@@ -1,0 +1,23 @@
+CRITICAL: 2022-09-24 13:13:00,531: MainThread:mvis_dlm_conf,read_cfg,63:  ../config/mvis_dlm.conf not found.  Program terminated
+CRITICAL: 2022-09-24 13:13:01,873: MainThread:mvis_dlm_conf,read_cfg,63:  ../config/mvis_dlm.conf not found.  Program terminated
+CRITICAL: 2022-09-24 13:13:03,061: MainThread:mvis_dlm_conf,read_cfg,63:  ../config/mvis_dlm.conf not found.  Program terminated
+CRITICAL: 2022-09-24 13:13:05,377: MainThread:mvis_dlm_conf,read_cfg,63:  ../config/mvis_dlm.conf not found.  Program terminated
+CRITICAL: 2022-09-24 13:13:07,650: MainThread:mvis_dlm_conf,read_cfg,63:  ../config/mvis_dlm.conf not found.  Program terminated
+CRITICAL: 2022-09-24 13:13:09,917: MainThread:mvis_dlm_conf,read_cfg,63:  ../config/mvis_dlm.conf not found.  Program terminated
+CRITICAL: 2022-09-24 13:13:12,151: MainThread:mvis_dlm_conf,read_cfg,63:  ../config/mvis_dlm.conf not found.  Program terminated
+CRITICAL: 2022-09-24 13:13:14,262: MainThread:mvis_dlm_conf,read_cfg,63:  ../config/mvis_dlm.conf not found.  Program terminated
+CRITICAL: 2022-09-24 13:13:16,529: MainThread:mvis_dlm_conf,read_cfg,63:  ../config/mvis_dlm.conf not found.  Program terminated
+CRITICAL: 2022-09-24 13:13:18,724: MainThread:mvis_dlm_conf,read_cfg,63:  ../config/mvis_dlm.conf not found.  Program terminated
+CRITICAL: 2022-09-24 13:13:21,033: MainThread:mvis_dlm_conf,read_cfg,63:  ../config/mvis_dlm.conf not found.  Program terminated
+CRITICAL: 2022-09-24 13:13:23,235: MainThread:mvis_dlm_conf,read_cfg,63:  ../config/mvis_dlm.conf not found.  Program terminated
+CRITICAL: 2022-09-24 13:13:25,521: MainThread:mvis_dlm_conf,read_cfg,63:  ../config/mvis_dlm.conf not found.  Program terminated
+CRITICAL: 2022-09-24 13:13:27,474: MainThread:mvis_dlm_conf,read_cfg,63:  ../config/mvis_dlm.conf not found.  Program terminated
+CRITICAL: 2022-09-24 13:13:29,303: MainThread:mvis_dlm_conf,read_cfg,63:  ../config/mvis_dlm.conf not found.  Program terminated
+CRITICAL: 2022-09-24 13:13:31,582: MainThread:mvis_dlm_conf,read_cfg,63:  ../config/mvis_dlm.conf not found.  Program terminated
+CRITICAL: 2022-09-24 13:13:32,839: MainThread:mvis_dlm_conf,read_cfg,63:  ../config/mvis_dlm.conf not found.  Program terminated
+CRITICAL: 2022-09-24 13:13:35,518: MainThread:mvis_dlm_conf,read_cfg,63:  ../config/mvis_dlm.conf not found.  Program terminated
+CRITICAL: 2022-09-24 13:13:39,648: MainThread:mvis_dlm_conf,read_cfg,63:  ../config/mvis_dlm.conf not found.  Program terminated
+CRITICAL: 2022-09-24 13:18:43,310: MainThread:mvis_dlm_conf,read_cfg,63:  ../config/mvis_dlm.conf not found.  Program terminated
+CRITICAL: 2022-09-24 13:20:08,737: MainThread:mvis_dlm_conf,read_cfg,63:  ../config/mvis_dlm.conf not found.  Program terminated
+WARNING: 2022-09-24 13:21:18,617: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-09-24 13:21:18,644: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****

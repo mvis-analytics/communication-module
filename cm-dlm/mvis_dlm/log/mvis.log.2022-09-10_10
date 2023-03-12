@@ -1,0 +1,1 @@
+CRITICAL: 2022-09-10 10:40:50,811: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 'total_bogie'

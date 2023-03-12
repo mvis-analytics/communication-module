@@ -1,0 +1,9 @@
+CRITICAL: 2022-09-09 23:48:17,884: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 'total_bogie'
+WARNING: 2022-09-09 23:52:32,370: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-09-09 23:52:32,393: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+CRITICAL: 2022-09-09 23:52:52,206: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 'total_bogie'
+CRITICAL: 2022-09-10 00:05:03,471: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 0
+CRITICAL: 2022-09-10 00:08:17,222: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 0
+CRITICAL: 2022-09-10 00:09:15,258: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 'str' object cannot be interpreted as an integer
+CRITICAL: 2022-09-10 00:09:50,155: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 0
+CRITICAL: 2022-09-10 00:12:00,594: Thread-1:mvis_api,insert_mvis_processed_info,262:  mvis_api: insert_mvis_processed_info: Exception raised: 0

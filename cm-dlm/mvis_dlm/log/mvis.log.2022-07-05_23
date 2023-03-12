@@ -1,0 +1,106 @@
+WARNING: 2022-07-05 18:16:31,241: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 18:16:31,268: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 18:17:44,420: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 18:17:44,447: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+CRITICAL: 2022-07-05 18:17:57,284: Thread-1:mvis_api,insert_mvis_processed_info,203:  mvis_api: insert_train_processed_info: Exception raised: name 'total_bogie' is not defined
+WARNING: 2022-07-05 18:18:58,287: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 18:18:58,304: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+CRITICAL: 2022-07-05 18:19:03,805: Thread-1:mvis_api,insert_mvis_processed_info,203:  mvis_api: insert_train_processed_info: Exception raised: object of type 'int' has no len()
+WARNING: 2022-07-05 18:20:02,953: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 18:20:02,975: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+CRITICAL: 2022-07-05 18:20:11,056: Thread-1:mvis_api,insert_mvis_processed_info,203:  mvis_api: insert_train_processed_info: Exception raised: object of type 'int' has no len()
+WARNING: 2022-07-05 18:20:48,543: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 18:20:48,565: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+CRITICAL: 2022-07-05 18:20:50,984: Thread-1:mvis_api,insert_mvis_processed_info,203:  mvis_api: insert_train_processed_info: Exception raised: object of type 'int' has no len()
+WARNING: 2022-07-05 18:21:10,952: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 18:21:10,981: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 18:21:37,630: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 18:21:37,642: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 18:22:40,089: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 18:22:40,116: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 18:27:42,075: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 18:27:42,087: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 18:29:16,972: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 18:29:16,986: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 18:36:58,266: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 18:36:58,289: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 18:41:11,368: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 18:41:11,396: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 18:42:47,553: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 18:42:47,560: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 18:43:07,332: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 18:43:07,359: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 21:50:07,853: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 21:50:07,857: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 21:50:37,935: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 21:50:37,962: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+CRITICAL: 2022-07-05 21:50:39,744: Thread-1:mvis_api,insert_mvis_processed_info,234:  mvis_api: insert_train_processed_info: Exception raised: 'total_bogie'
+WARNING: 2022-07-05 21:51:17,083: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 21:51:17,110: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+CRITICAL: 2022-07-05 21:51:19,804: Thread-1:mvis_api,insert_mvis_processed_info,234:  mvis_api: insert_train_processed_info: Exception raised: list index out of range
+WARNING: 2022-07-05 21:53:58,068: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 21:53:58,075: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+CRITICAL: 2022-07-05 21:53:59,750: Thread-1:mvis_api,insert_mvis_processed_info,234:  mvis_api: insert_train_processed_info: Exception raised: list index out of range
+WARNING: 2022-07-05 21:56:33,901: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 21:56:33,929: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+CRITICAL: 2022-07-05 21:56:36,098: Thread-1:mvis_api,insert_mvis_processed_info,234:  mvis_api: insert_mvis_processed_info: Exception raised: list index out of range
+WARNING: 2022-07-05 21:58:24,395: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 21:58:24,422: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 22:05:06,497: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 22:05:06,519: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 22:05:46,305: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 22:05:46,327: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 22:17:00,162: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 22:17:00,163: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 22:21:41,504: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 22:21:41,527: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 22:27:14,609: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 22:27:14,631: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 22:28:48,214: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 22:28:48,236: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 22:32:14,095: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 22:32:14,096: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 22:48:57,133: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 22:48:57,160: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+ERROR: 2022-07-05 22:55:38,800: Thread-1:MqttClient,on_con,176:  dlm-api: Broker: 127.0.0.1 Connect Result: Connection refused: Not authorized
+CRITICAL: 2022-07-05 22:55:38,800: Thread-1:MqttClient,on_discon,183:  dlm-api: ***** Unexpectedly DISCONNECTED - MQTT broker : 127.0.0.1 Retrying *****
+ERROR: 2022-07-05 22:55:38,801: MainThread:MqttClient,connect,60:  dlm-api: ***** Unable to CONNECT to  MQTT broker : 127.0.0.1Retrying ******
+WARNING: 2022-07-05 22:55:38,801: Thread-1:MqttClient,start_reconnect_th,103:  dlm-api: *** Starting reconnect Thread Broker: 127.0.0.1  ***
+WARNING: 2022-07-05 22:55:43,227: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 22:55:43,254: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+CRITICAL: 2022-07-05 22:55:46,068: Thread-1:mvis_api,insert_mvis_processed_info,253:  mvis_api: insert_mvis_processed_info: Exception raised: name 'total_bogie' is not defined
+WARNING: 2022-07-05 22:57:31,586: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 22:57:31,587: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+CRITICAL: 2022-07-05 22:57:33,195: Thread-1:mvis_api,insert_mvis_processed_info,251:  mvis_api: insert_mvis_processed_info: Exception raised: name 'action_taken' is not defined
+WARNING: 2022-07-05 22:58:15,535: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 22:58:15,562: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 23:03:33,603: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 23:03:33,631: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 23:08:47,973: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 23:08:47,996: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 23:12:11,074: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 23:12:11,101: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 23:14:54,778: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 23:14:54,805: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 23:15:57,162: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 23:15:57,190: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 23:17:24,016: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 23:17:24,019: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 23:19:02,219: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 23:19:02,246: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 23:19:20,288: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 23:19:20,310: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 23:26:58,581: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 23:26:58,603: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 23:31:14,653: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 23:31:14,675: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+ERROR: 2022-07-05 23:32:32,961: Thread-1:MqttClient,on_con,176:  dlm-api: Broker: 127.0.0.1 Connect Result: Connection refused: Not authorized
+ERROR: 2022-07-05 23:32:32,971: MainThread:MqttClient,connect,60:  dlm-api: ***** Unable to CONNECT to  MQTT broker : 127.0.0.1Retrying ******
+CRITICAL: 2022-07-05 23:32:32,971: Thread-1:MqttClient,on_discon,183:  dlm-api: ***** Unexpectedly DISCONNECTED - MQTT broker : 127.0.0.1 Retrying *****
+WARNING: 2022-07-05 23:32:32,972: MainThread:MqttClient,start_reconnect_th,103:  dlm-api: *** Starting reconnect Thread Broker: 127.0.0.1  ***
+WARNING: 2022-07-05 23:36:17,107: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 23:36:17,129: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 23:39:40,049: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 23:39:40,076: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 23:49:49,549: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-07-05 23:49:49,561: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****

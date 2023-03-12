@@ -1,0 +1,21 @@
+CRITICAL: 2022-08-05 12:18:19,026: Thread-1:mvis_api,insert_mvis_processed_info,260:  mvis_api: insert_mvis_processed_info: Exception raised: list index out of range
+CRITICAL: 2022-08-05 16:03:06,301: Thread-1:mvis_api,insert_mvis_processed_info,260:  mvis_api: insert_mvis_processed_info: Exception raised: list index out of range
+WARNING: 2022-08-05 16:06:27,407: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-08-05 16:06:27,430: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+CRITICAL: 2022-08-05 16:07:00,030: Thread-1:mvis_api,insert_mvis_processed_info,260:  mvis_api: insert_mvis_processed_info: Exception raised: list index out of range
+CRITICAL: 2022-08-05 16:14:46,333: Thread-1:mvis_api,insert_mvis_processed_info,260:  mvis_api: insert_mvis_processed_info: Exception raised: list index out of range
+CRITICAL: 2022-08-05 16:17:45,199: Thread-1:mvis_api,insert_mvis_processed_info,260:  mvis_api: insert_mvis_processed_info: Exception raised: list index out of range
+WARNING: 2022-08-05 16:19:28,065: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-08-05 16:19:28,087: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+CRITICAL: 2022-08-05 16:19:49,453: Thread-1:mvis_api,insert_mvis_processed_info,260:  mvis_api: insert_mvis_processed_info: Exception raised: '1'
+WARNING: 2022-08-05 16:24:37,697: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-08-05 16:24:37,725: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+CRITICAL: 2022-08-05 16:24:52,091: Thread-1:mvis_api,insert_mvis_processed_info,260:  mvis_api: insert_mvis_processed_info: Exception raised: '1'
+WARNING: 2022-08-05 16:32:22,419: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-08-05 16:32:22,447: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+CRITICAL: 2022-08-05 16:32:30,538: Thread-1:mvis_api,insert_mvis_processed_info,260:  mvis_api: insert_mvis_processed_info: Exception raised: value too long for type character varying(30)
+
+WARNING: 2022-08-05 16:42:40,150: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-08-05 16:42:40,179: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-08-05 17:19:03,563: MainThread:MqttClient,connect,56:  mvis-dlm-main-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****
+WARNING: 2022-08-05 17:19:03,591: MainThread:MqttClient,connect,56:  mvis-dlm-api-client: ***** CONNECT MQTT broker : 127.0.0.1  Success *****

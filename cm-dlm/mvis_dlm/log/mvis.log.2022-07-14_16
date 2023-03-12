@@ -1,0 +1,4 @@
+CRITICAL: 2022-07-14 12:53:25,126: Thread-1:mvis_api,insert_mvis_processed_info,250:  mvis_api: insert_mvis_processed_info: Exception raised: 'int' object is not subscriptable
+CRITICAL: 2022-07-14 16:35:04,725: Thread-1:mvis_api,insert_mvis_processed_info,250:  mvis_api: insert_mvis_processed_info: Exception raised: 'int' object is not subscriptable
+CRITICAL: 2022-07-14 16:35:12,682: Thread-1:mvis_api,insert_mvis_processed_info,250:  mvis_api: insert_mvis_processed_info: Exception raised: Expecting value: line 1 column 1 (char 0)
+CRITICAL: 2022-07-14 16:35:32,231: Thread-1:mvis_api,insert_mvis_processed_info,250:  mvis_api: insert_mvis_processed_info: Exception raised: Expecting value: line 1 column 1 (char 0)

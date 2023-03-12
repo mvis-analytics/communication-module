@@ -1,0 +1,7 @@
+CRITICAL: 2022-07-11 18:03:08,517: Thread-1:mvis_api,insert_mvis_processed_info,250:  mvis_api: insert_mvis_processed_info: Exception raised: 'wagon_id'
+CRITICAL: 2022-07-11 18:04:20,355: Thread-1:mvis_api,insert_mvis_processed_info,250:  mvis_api: insert_mvis_processed_info: Exception raised: 'wagon_id'
+CRITICAL: 2022-07-11 18:09:10,351: Thread-1:mvis_api,insert_mvis_processed_info,250:  mvis_api: insert_mvis_processed_info: Exception raised: 'NoneType' object is not subscriptable
+CRITICAL: 2022-07-11 18:14:27,824: Thread-1:mvis_api,insert_mvis_processed_info,250:  mvis_api: insert_mvis_processed_info: Exception raised: 'NoneType' object is not subscriptable
+CRITICAL: 2022-07-11 18:15:38,051: Thread-1:mvis_api,insert_mvis_processed_info,250:  mvis_api: insert_mvis_processed_info: Exception raised: 'NoneType' object is not subscriptable
+CRITICAL: 2022-07-11 18:18:55,837: Thread-1:mvis_api,insert_mvis_processed_info,250:  mvis_api: insert_mvis_processed_info: Exception raised: 'NoneType' object is not subscriptable
+CRITICAL: 2022-07-11 18:31:31,237: Thread-1:mvis_api,insert_mvis_processed_info,250:  mvis_api: insert_mvis_processed_info: Exception raised: 'wagon_id'
